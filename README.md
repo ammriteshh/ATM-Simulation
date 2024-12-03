@@ -1,0 +1,1 @@
+An application that simulates an ATM system with functionalities like account creation, balance inquiry, deposits, and withdrawals. It uses C++ to demonstrate basic programming concepts such as structures, loops, conditional statements, and file handling.
